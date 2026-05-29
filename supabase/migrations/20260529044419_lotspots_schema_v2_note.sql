@@ -1,0 +1,4 @@
+-- LotSpots schema v2 note
+-- The canonical schema is stored at /supabase-schema.sql.
+-- This placeholder records the v2 schema migration intent for Supabase-oriented project structure.
+-- Direct database application was performed through the Supabase connection.
